@@ -1,0 +1,12 @@
+PRGNAM="deltachat"
+VERSION="2.62.0"
+HOMEPAGE="https://delta.chat/"
+DOWNLOAD="UNSUPPORTED"
+MD5SUM=""
+DOWNLOAD_x86_64="https://download.delta.chat/desktop/v$VERSION/DeltaChat-$VERSION-x86_64.AppImage"
+https://download.delta.chat/desktop/v$VERSION/DeltaChat-$VERSION-x86_64.AppImage
+
+MD5SUM_x86_64="aefc305b62aa86e53bd28690fca3c623"
+REQUIRES=""
+MAINTAINER="slackjeff"
+EMAIL="slackjeff@riseup.net"
